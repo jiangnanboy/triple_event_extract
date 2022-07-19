@@ -17,7 +17,7 @@ import java.util.regex.Pattern;
  * @author sy
  * @date 2022/7/19 19:36
  */
-public class TextMine {
+public class TriplesMine {
 
     /**
      * 抽取spo
