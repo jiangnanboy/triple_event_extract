@@ -35,6 +35,7 @@ examples/ExtractTriple
    ```
 
 ##### Reference
+
 https://github.com/liuhuanyong/ComplexEventExtraction
 
 https://github.com/jiangnanboy/text_grapher
