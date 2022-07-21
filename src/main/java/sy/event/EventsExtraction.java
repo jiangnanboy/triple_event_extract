@@ -22,6 +22,7 @@ import java.util.stream.Stream;
  * @date 2022/7/19 19:36
  */
 public class EventsExtraction {
+
     List<Pattern> butPattern;
     List<Pattern> seqPattern;
     List<Pattern> morePattern;
